@@ -1,0 +1,46 @@
+.column {
+    float: right;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .header.smallheader {
+    text-align: center;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.ui.card {
+  height: 100%; 
+  display: flex; 
+  flex-direction: column; 
+}
+
+.ui.card .content {
+  flex: 1 0 auto;  
+}
+
+.ui.card .extra.content {
+  margin-top: auto; 
+}
+
+ .tablebackground{
+    background-color: #FF8000 !important;
+  }
+
+
+ .viewbackground{
+  background-color: #ff9933 !important;
+}
+  
+
+.mvbackground{
+  background-color: #c3c2c2 !important;
+}
+
+
+  .smallheader{
+      font-size: medium !important;
+  }
+
+
