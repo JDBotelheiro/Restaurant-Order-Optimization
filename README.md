@@ -6,6 +6,9 @@
 
 This repository contains the source code for a Restaurant Order Optimization system that takes into account various factors to efficiently handle and prepare food orders. The system prioritizes orders based on the complexity of dishes, group orders, driver wait time, and rush hours.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://restaurant-order-optimization.streamlit.app/)
+
+
 ## Repository Structure
 
 The repository consists of the following main components:
