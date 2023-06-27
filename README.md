@@ -1,6 +1,8 @@
 # Order Optimization
 
-![Order Optimization](./src/images/logo.png)
+<p align="center">
+  <img src="./src/images/logo.png" alt="Order Optimization">
+</p>
 
 This repository contains the source code for a Restaurant Order Optimization system that takes into account various factors to efficiently handle and prepare food orders. The system prioritizes orders based on the complexity of dishes, group orders, driver wait time, and rush hours.
 
@@ -17,8 +19,8 @@ The repository consists of the following main components:
 
 To run this project, you need:
 
-- Python 3.6 or above
-- Streamlit 0.82.0 or above
+- Python 3.9
+- Streamlit 1.24.0
 
 ## Setup Instructions
 
